@@ -1,4 +1,4 @@
-# Hi there, I'm Francesco Zanini! 👋
+# Hi there, I'm Francesco! 👋
 
 ## About Me
 I'm a passionate software developer with a love for coding and continuous learning. I have experience in various programming languages and frameworks and enjoy working on challenging projects.
