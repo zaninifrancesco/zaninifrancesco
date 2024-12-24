@@ -11,6 +11,7 @@ I'm a passionate software developer with a love for coding and continuous learni
 - **Languages:** Java, C++, Python, Dart
 - **Frameworks:** Flutter, Java Spring
 - **Tools:** Git, Docker
+
 ![Java](https://img.shields.io/badge/language-Java-red)
 ![Python](https://img.shields.io/badge/language-Python-blue)
 ![C++](https://img.shields.io/badge/language-C%2B%2B-green)
