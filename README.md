@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Francesco Zanini! 👋
 
-<!--
-**zaninifrancesco/zaninifrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software developer with a love for coding and continuous learning. I have experience in various programming languages and frameworks and enjoy working on challenging projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on "Trading Bot Algorithm" and "Music Player with Mobile Motion Sensors"
+- 🌱 I’m currently learning Spring and Kafka
+- 📫 How to reach me: zaninifrancesco.bsns@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Java, C++, Python, Dart
+- **Frameworks:** Flutter, Java Spring
+- **Tools:** Git, Docker
+
+## Projects
+Here are some of the projects I've been working on:
+
+- [Linx: Save and Share your links](https://github.com/PecilliZanini/LinxFlutter).
+
+## GitHub Stats
+![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaninifrancesco&show_icons=true&theme=radical)
+
+## Connect with Me
+- [LinkedIn](Your LinkedIn Profile URL)
+- [Email](mailto:zaninifrancesco.bsns@gmail.com)
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or just say hi! 😊
