@@ -11,6 +11,11 @@ I'm a passionate software developer with a love for coding and continuous learni
 - **Languages:** Java, C++, Python, Dart
 - **Frameworks:** Flutter, Java Spring
 - **Tools:** Git, Docker
+![Java](https://img.shields.io/badge/language-Java-red)
+![Python](https://img.shields.io/badge/language-Python-blue)
+![C++](https://img.shields.io/badge/language-C%2B%2B-green)
+![Flutter](https://img.shields.io/badge/framework-Flutter-blue?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/language-Dart-blue?logo=dart&logoColor=white)
 
 ## Projects
 Here are some of the projects I've been working on:
@@ -18,7 +23,7 @@ Here are some of the projects I've been working on:
 - [Linx: Save and Share your links](https://github.com/PecilliZanini/LinxFlutter).
 
 ## GitHub Stats
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaninifrancesco&show_icons=true&theme=radical)
+[![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaninifrancesco&show_icons=true&theme=radical)]
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/francesco-zanini-54514a249/)
