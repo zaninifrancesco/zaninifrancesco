@@ -21,7 +21,7 @@ Here are some of the projects I've been working on:
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaninifrancesco&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](Your LinkedIn Profile URL)
+- [LinkedIn](https://www.linkedin.com/in/francesco-zanini-54514a249/)
 - [Email](mailto:zaninifrancesco.bsns@gmail.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or just say hi! 😊
