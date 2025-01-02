@@ -15,9 +15,9 @@ I'm a passionate software developer with a love for coding and continuous learni
 ![Java](https://img.shields.io/badge/language-Java-red)
 ![Python](https://img.shields.io/badge/language-Python-blue)
 ![C++](https://img.shields.io/badge/language-C%2B%2B-green)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/framework-Flutter-blue?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/language-Dart-blue?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/framework-Flutter-blue?logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
 Here are some of the projects I've been working on:
