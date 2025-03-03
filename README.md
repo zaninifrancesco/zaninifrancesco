@@ -23,6 +23,7 @@ I'm a passionate software developer with a love for coding and continuous learni
 Here are some of the projects I've been working on:
 
 - [Linx: Save and Share your links](https://github.com/PecilliZanini/LinxFlutter).
+- [Vwap Trading Strategy Backtester](https://github.com/PecilliZanini/LinxFlutter](https://github.com/zaninifrancesco/vwap-strategy-backtester)).
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/francesco-zanini-54514a249/)
