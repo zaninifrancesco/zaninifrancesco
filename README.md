@@ -22,8 +22,8 @@ I'm a passionate software developer with a love for coding and continuous learni
 ## Projects
 Here are some of the projects I've been working on:
 - [Market Analytics Dashboard](https://github.com/zaninifrancesco/market-analytics-dashboard-).
-- [Linx: Save and Share your links](https://github.com/PecilliZanini/LinxFlutter).
 - [VWAP Trading Strategy Backtester](https://github.com/zaninifrancesco/vwap-strategy-backtester).
+- [Linx: Save and Share your links](https://github.com/PecilliZanini/LinxFlutter).
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/francesco-zanini-54514a249/)
