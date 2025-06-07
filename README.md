@@ -3,8 +3,7 @@
 ## About Me
 I'm a passionate software developer with a love for coding and continuous learning. I have experience in various programming languages and frameworks and enjoy working on challenging projects.
 
-- 🔭 I’m currently working on "Music Player with Mobile Motion Sensors"
-- 🌱 I’m currently learning Java Spring and Kafka
+- 🌱 I’m currently learning Java Spring and AWS
 - 📫 How to reach me: zaninifrancesco.bsns@gmail.com
 
 ## Skills
